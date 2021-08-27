@@ -1,0 +1,17 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: #ffffff;
+
+}
+
+.img-responsive{
+    width: 200px;
+    height: 350px;
+}
+
+h4{
+    background: white;
+    width: 300px;
+    margin-bottom: 5px;
+    text-align: center;
+}
